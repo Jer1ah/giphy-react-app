@@ -1,0 +1,29 @@
+button {
+    height: 40px;
+    border-radius: 0;
+    background-color: #eee;
+    color: black;
+    border: 2px solid black;
+    font-size: 13px;
+    width: 100px;
+    font-weight: bold;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+input {
+    height: 34px;
+    border-radius: 0;
+    border: 2px solid black;
+    color: black;
+    width: 150px;
+    margin-right: 5px;
+    margin-left: 660px;
+    margin-top: 20px;
+    padding: 0 10px;
+    font-weight: bold;
+}
+
+button:hover {
+    cursor: pointer;
+}
